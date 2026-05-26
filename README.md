@@ -41,6 +41,28 @@ A full-stack video conferencing and collaboration platform for virtual study roo
 - Camera starts off by default for privacy
 - Join notification sound (Web Audio API)
 
+
+
+
+<img width="895" height="918" alt="image" src="https://github.com/user-attachments/assets/ff2028e5-cefe-4547-8de8-5e640dd8a870" />
+
+<img width="1844" height="955" alt="image" src="https://github.com/user-attachments/assets/6e498888-50d9-40d5-87c7-26239c471af2" />
+<img width="1898" height="962" alt="{DBA63919-3DDB-43FB-AD88-AB1C87D76228}" src="https://github.com/user-attachments/assets/07f16563-5dd3-447e-8af1-b8ca829976dd" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Installation
 
 ### Prerequisites
