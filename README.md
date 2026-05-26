@@ -1,4 +1,4 @@
-# Study With Me | ادرس معي
+# Study With Me | 
 
 A full-stack video conferencing and collaboration platform for virtual study rooms, built with Django + React. Features real-time video/audio (WebRTC), chat (WebSockets), and participant management with an Arabic RTL interface.
 
